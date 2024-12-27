@@ -1,0 +1,14 @@
+{
+  "fmea_rtcm_path": "C:\\WORK\\Dev\\Github\\OnChipRTK\\PROJECT\\VS\\VS2019\\log\\rtcm.dat",
+  "fnavi_rinex_path": "C:\\WORK\\Dev\\Github\\OnChipRTK\\PROJECT\\VS\\VS2019\\log\\rtcm.nav",
+  "fbase_rtcm_path": "C:\\WORK\\temp\\NavStarTool_241213\\COM49_2024_12_09_15_14_13.dat",
+  "rtcm_date": "20241209",
+  "base_pos": [ -2862691.0123, 4649187.9558, 3286148.8781 ],
+
+  "refpos_sel": 0,
+  "refpos_lla": [ 31.22220573889, 121.6335352528, 30.733 ],
+  "refpos_type": 4,
+  "sys_enable": "0x02F",
+  "dyna_mode": 0
+}
+
